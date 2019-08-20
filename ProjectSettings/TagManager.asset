@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Spike
+  - DeathCollider
+  - Particle
+  - GameState
+  - PrefabManager
+  - ScoreCanvas
+  - ScoreText
+  - StartingArea
+  - TotalDistance
+  - DeathScreen
+  - BackGround
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Platform
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3949530423
+    locked: 0
+  - name: Spike
+    uniqueID: 2456526987
+    locked: 0
+  - name: MidGround
+    uniqueID: 2610515819
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2595539469
+    locked: 0
+  - name: Player
+    uniqueID: 1630959813
+    locked: 0
